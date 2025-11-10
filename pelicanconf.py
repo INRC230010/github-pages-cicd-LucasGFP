@@ -1,6 +1,6 @@
 AUTHOR = 'Lucas'
 SITENAME = 'Meu Site'
-SITEURL = ""
+SITEURL = "https://inrc230010.github.io/github-pages-cicd-LucasGFP/"
 
 PATH = "content"
 
@@ -36,4 +36,4 @@ THEME = 'pelican-themes/notmyidea-cms'
 
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = False
